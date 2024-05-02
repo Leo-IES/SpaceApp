@@ -10,13 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
-    "@gluestack-style/react": "^1.0.54",
-    "@gluestack-ui/config": "^1.1.18",
-    "@gluestack-ui/themed": "^1.1.22",
+    "@eva-design/eva": "^2.2.0",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "@ui-kitten/components": "^5.3.1",
+    "@ui-kitten/eva-icons": "^5.3.1",
+    "lottie-react-native": "^6.7.2",
     "react": "18.2.0",
     "react-native": "0.74.0",
+    "react-native-image-picker": "^7.1.2",
     "react-native-safe-area-context": "^3.3.2",
-    "react-native-svg": "^13.4.0"
+    "react-native-screens": "^3.31.1",
+    "react-native-svg": "^13.14.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
